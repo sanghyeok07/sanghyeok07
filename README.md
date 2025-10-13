@@ -1,7 +1,7 @@
 <!-- 헤더 / 인트로 -->
 <div align="center">
-
-# Hi, I'm **Sanghyeok** 👋  
+  
+## 자바/스프링 백엔드 개발자
 **Java/Spring Boot Backend** · **Practical Frontend with JS**
 
 Building reliable APIs, real-time features, and clean data models.
