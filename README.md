@@ -37,7 +37,7 @@ Building reliable APIs, real-time features, and clean data models.
 > **Role:** 백엔드 설계·구현, 프론트 디자인
 
 <details>
-<summary><b>무엇을 만들었나요?</b></summary>
+<summary><b>구현 기능</b></summary>
 
 - **웹소켓 채팅** (Socket.IO): 구매자/판매자 매칭 → 방 생성/이동 → 시간대 정렬 메시지
 - **판매 순위(랭킹)**: 판매자별 판매건 집계, 홈 Top3 노출
@@ -57,7 +57,7 @@ Building reliable APIs, real-time features, and clean data models.
 > **Role:** 백엔드 설계·구현, 프론트 디자인
 
 <details>
-<summary><b>무엇을 만들었나요?</b></summary>
+<summary><b>구현 기능</b></summary>
 
 - **시설찾기**: 지역/프로그램 필터 + 키워드 검색
 - **공지사항 & Q&A**: 글ID 조회, 페이지네이션(10개/페이지)
@@ -76,17 +76,3 @@ Building reliable APIs, real-time features, and clean data models.
 
 ---
 
-## 💬 Ask Me About
-- Java/Spring Boot로 **확장 가능한 API** 설계  
-- **실시간 채팅/알림** 아키텍처(WebSocket/Socket.IO)  
-- MySQL **스키마·인덱스·페이지네이션** 전략  
-- 간단한 프론트와 **빠른 프로토타이핑**
-
----
-
-## 📫 Contact
-- Email: contact@example.com  
-- Blog: https://your-blog.example  
-- LinkedIn: https://www.linkedin.com/in/your-id  
-
-> *현재* Spring Security 심화, JPA 성능 튜닝, 시스템 디자인 패턴을 공부하고 있어요.
