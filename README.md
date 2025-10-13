@@ -9,8 +9,9 @@
 [![My Skills](https://skillicons.dev/icons?i=javascript,java,spring,mysql,docker,html,css,git)]()
 
 ## Highlights
-- **AMGN(Amugeona)** – 중고거래 플랫폼. 위치 기반 검색 + 랭킹/카테고리 필터 + 실시간 채팅 (Java/Spring Boot/MySQL/JS)  
+- **AMGN(Amugeona)** – 중고거래 플랫폼 (채팅, 랭킹, 필터/검색, 상태관리 등 담당) (Java/Spring Boot/MySQL/JS)  
   [Repo](https://github.com/torye2/AMGN)
+  [개인 기여 상세](https://github.com/torye2/AMGN/blob/main/docs/CONTRIBUTION_sanghyeok.md)
 - **Yoyang Project** – 요양 병원 검색/비교 서비스. 시설찾기·공지사항·Q&A·비교·필터링 구현 (Spring Boot/Spring Security/MySQL/JS)  
   [Repo](https://github.com/sanghyeok07/yoyang-project)
 
