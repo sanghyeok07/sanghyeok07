@@ -6,9 +6,7 @@
 
 Building reliable APIs, real-time features, and clean data models.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-visit-111?logo=vercel)](https://your-portfolio.example)
-[![Resume](https://img.shields.io/badge/Resume-PDF-0a66c2?logo=readthedocs)](https://your-resume.example)
-[![Email](https://img.shields.io/badge/Email-contact%40example.com-ef4444?logo=gmail)](mailto:contact@example.com)
+[![Email](https://img.shields.io/badge/Email-contact%40example.com-ef4444?logo=gmail)](mailto:3400jkh@naver.com)
 
 </div>
 
