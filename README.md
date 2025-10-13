@@ -14,7 +14,7 @@
   [개인 기여 상세](https://github.com/torye2/AMGN/blob/master/docs/CONTRIBUTION_sanghyeok.md)
 - **Yoyang Project** – 요양 병원 검색/비교 서비스. 시설찾기·공지사항·Q&A·비교·필터링 구현 (Spring Boot/Spring Security/MySQL/JS)  
   [Repo](https://github.com/sanghyeok07/yoyang-project)
-  [개인 기여 상세](https://github.com/yoyang-project/blob/master/docs/CONTRIBUTION_sanghyeok.md)
+  [개인 기여 상세](https://github.com/yoyang-project/blob/main/docs/CONTRIBUTION_sanghyeok.md)
 
 ## GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sanghyeok07&show_icons=true)
