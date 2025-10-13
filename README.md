@@ -6,7 +6,7 @@
 
 Building reliable APIs, real-time features, and clean data models.
 
-[![Email](https://img.shields.io/badge/Email-contact%40example.com-ef4444?logo=gmail)](mailto:3400jkh@naver.com)
+[![Email](https://img.shields.io/badge/Email-3400jkh%40naver.com-ef4444?logo=gmail)](mailto:3400jkh@naver.com)
 
 </div>
 
