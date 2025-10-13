@@ -4,8 +4,6 @@
 ## 자바/스프링 백엔드 개발자
 **Java/Spring Boot Backend** · **Practical Frontend with JS**
 
-Building reliable APIs, real-time features, and clean data models.
-
 [![Email](https://img.shields.io/badge/Email-3400jkh%40naver.com-ef4444?logo=gmail)](mailto:3400jkh@naver.com)
 
 </div>
@@ -62,15 +60,6 @@ Building reliable APIs, real-time features, and clean data models.
 - **시설비교**: 선택된 병원 ID set → 비교 테이블 렌더링
 - **카테고리 필터링**: 조건 일치 병원 리스트 조회(지역 + 프로그램)
 </details>
-
----
-
-## 📊 GitHub Snapshot
-<div align="center">
-  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sanghyeok07&show_icons=true)
-  
-</div>
 
 ---
 
