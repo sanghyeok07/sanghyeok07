@@ -61,3 +61,50 @@
 - **카테고리 필터링**: 조건 일치 병원 리스트 조회(지역 + 프로그램)
 </details>
 
+---
+
+### Groupware Collaboration Platform — 실시간 협업/근태/결재/캘린더 통합 그룹웨어
+[![Repo](https://img.shields.io/badge/Repo-groupware--project-111?logo=github)](https://github.com/USERNAME/REPO) 
+<!-- 필요 시 변경 -->
+[![Contribution](https://img.shields.io/badge/Docs-개인_기여_상세-2563eb)](./docs/CONTRIBUTION.md)
+
+> **Stack:** Java · Spring Boot · JPA · WebSocket · WebRTC · MySQL  
+> **Role:** 백엔드 전반 설계 및 구현 (도메인 모델링, 서비스 로직, 실시간 통신)
+
+<details>
+<summary><b>구현 기능</b></summary>
+
+#### 🕒 출결 관리 (Attendance)
+- 출근/퇴근 기록 & 휴가/연장근무 신청 흐름 구현
+- 근무 시간 통계/요약 제공 (`AttendanceSummaryService`)
+
+#### 📄 전자 결재 (Approval)
+- 사용자-문서 읽음 상태를 복합키로 관리 (`ApprovalDoc`, `ApprovalDocPK`)
+- 승인/반려/열람 이력 추적 (`ApprovalService`)
+
+#### 🗓 조직 캘린더 (Calendar)
+- 팀/개인 일정 생성/조회/공유
+- 시간 범위/유저 조건 필터링 (`CalendarService`)
+
+#### 💬 실시간 채팅 (Chat)
+- 채팅방 / 참여자 / 메시지 / 읽음 상태 **도메인 분리 설계**
+- WebSocket 메시지 전송 & 읽음 반영 (`ChatWsController`, `ChatService`)
+- `ChatDto` 로 송수신 포맷 표준화
+
+#### 🎥 화상 회의 (Meeting)
+- WebRTC P2P 연결을 위한 Signaling Controller 구현
+- Offer / Answer / ICE Candidate 교환 처리
+
+#### ✅ Todo 업무 관리
+- 개인 단위 업무 CRUD (`TodoService`)
+
+</details>
+
+<details>
+<summary><b>설계 포인트</b></summary>
+
+- **실시간 통신:** WebSocket 기반 메시지 푸시 + WebRTC 시그널 교환 구조 설계
+- **복합키 & 관계 모델링:** 읽음 상태, 참여자 관계 등을 별도 엔티티로 정규화
+- **명확한 계층 분리:** Controller → Service → Repository → Entity 구조 확립
+- **유지보수성 고려:** 단일 도메인 변경 시 영향 범위 최소화
+</details>
