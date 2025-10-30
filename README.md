@@ -47,7 +47,7 @@
 
 ### Yoyang Project — 요양 병원 검색·비교 서비스
 [![Repo](https://img.shields.io/badge/Repo-yoyang--project-111?logo=github)](https://github.com/sanghyeok07/yoyang-project)
-[![Contribution](https://img.shields.io/badge/Docs-개인_기여_문서-2563eb)](https://github.com/sanghyeok07/yoyang-project/blob/main/docs/CONTRIBUTION_sanghyeok.md)
+[![Contribution](https://img.shields.io/badge/Docs-개인_기여_상세-2563eb)](https://github.com/sanghyeok07/yoyang-project/blob/main/docs/CONTRIBUTION_sanghyeok.md)
 
 > **Stack:** Spring Boot · Spring Security · JDBC · MySQL · JS  
 > **Role:** 백엔드 설계·구현, 프론트 디자인
@@ -65,7 +65,7 @@
 
 ### Groupware Collaboration Platform — 실시간 협업/근태/결재/캘린더 통합 그룹웨어
 [![Repo](https://img.shields.io/badge/Repo-AMGW-111?logo=github)](https://github.com/torye2/AMGW)
-[![Contribution](https://img.shields.io/badge/Docs-개인_기여_상세-2563eb)](./docs/CONTRIBUTION_sanghyeok.md)
+[![Contribution](https://img.shields.io/badge/Docs-개인_기여_상세-2563eb)](https://github.com/torye2/AMGN/blob/master/docs/CONTRIBUTION_sanghyeok.md)
 
 
 > **Stack:** Java · Spring Boot · JPA · WebSocket · WebRTC · MySQL  
