@@ -65,8 +65,8 @@
 
 ### Groupware Collaboration Platform — 실시간 협업/근태/결재/캘린더 통합 그룹웨어
 [![Repo](https://img.shields.io/badge/Repo-AMGW-111?logo=github)](https://github.com/torye2/AMGW)
-<!-- 필요 시 변경 -->
-[![Contribution](https://img.shields.io/badge/Docs-개인_기여_상세-2563eb)](./docs/CONTRIBUTION.md)
+[![Contribution](https://img.shields.io/badge/Docs-개인_기여_상세-2563eb)](./docs/CONTRIBUTION_AMGW.md)
+
 
 > **Stack:** Java · Spring Boot · JPA · WebSocket · WebRTC · MySQL  
 > **Role:** 백엔드 전반 설계 및 구현 (도메인 모델링, 서비스 로직, 실시간 통신)
