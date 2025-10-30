@@ -65,7 +65,7 @@
 
 ### Groupware Collaboration Platform — 실시간 협업/근태/결재/캘린더 통합 그룹웨어
 [![Repo](https://img.shields.io/badge/Repo-AMGW-111?logo=github)](https://github.com/torye2/AMGW)
-[![Contribution](https://img.shields.io/badge/Docs-개인_기여_상세-2563eb)](https://github.com/torye2/AMGN/blob/master/docs/CONTRIBUTION_sanghyeok.md)
+[![Contribution](https://img.shields.io/badge/Docs-개인_기여_상세-2563eb)](https://github.com/torye2/AMGW/blob/master/docs/CONTRIBUTION_sanghyeok.md)
 
 
 > **Stack:** Java · Spring Boot · JPA · WebSocket · WebRTC · MySQL  
