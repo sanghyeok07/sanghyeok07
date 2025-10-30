@@ -64,7 +64,7 @@
 ---
 
 ### Groupware Collaboration Platform — 실시간 협업/근태/결재/캘린더 통합 그룹웨어
-[![Repo](https://img.shields.io/badge/Repo-groupware--project-111?logo=github)](https://github.com/USERNAME/REPO) 
+[![Repo](https://img.shields.io/badge/Repo-AMGW-111?logo=github)](https://github.com/torye2/AMGW)
 <!-- 필요 시 변경 -->
 [![Contribution](https://img.shields.io/badge/Docs-개인_기여_상세-2563eb)](./docs/CONTRIBUTION.md)
 
